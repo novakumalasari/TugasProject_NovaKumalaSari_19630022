@@ -53,4 +53,12 @@ public class WarungMasakanBanjar {
         System.out.println("Dodol" + wd);
     }
 
+    //constructor
+    public WarungMasakanBanjar() {
+        this.nama = "Nova Kumala Sari";
+        this.npm = "19630022";
+        this.kelas = "4C TI REG PAGI BANJARBARU";
+    }
 }
+
+

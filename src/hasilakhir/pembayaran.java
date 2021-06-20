@@ -3,8 +3,18 @@ package hasilakhir;
 import daftarwarungmasakan.DaftarNamaHarga;
 import model.WarungMasakanBanjar;
 
+
 public class pembayaran {
     public static void main(String []args) {
+
+        WarungMasakanBanjar a = new WarungMasakanBanjar();
+        System.out.println(a.nama);
+
+        WarungMasakanBanjar aa = new WarungMasakanBanjar();
+        System.out.println(aa.npm);
+
+        WarungMasakanBanjar ab = new WarungMasakanBanjar();
+        System.out.println(ab.kelas);
 
         WarungMasakanBanjar k = new WarungMasakanBanjar();
         k.nama ="Nova Kumala Sari";

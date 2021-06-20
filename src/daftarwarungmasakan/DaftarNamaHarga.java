@@ -14,5 +14,4 @@ public class DaftarNamaHarga extends WarungMasakanBanjar {
         System.out.println("Bayar : "+bayar);
         System.out.println("Kembalian : "+kembalian);
     }
-
 }

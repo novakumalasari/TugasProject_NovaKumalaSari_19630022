@@ -20,6 +20,30 @@ public class WarungMasakanBanjar {
     public String wps;
     public String wa;
 
+    public String getNama() {
+        return nama;
+    }
+
+    public void setNama(String nama) {
+        this.nama = nama;
+    }
+
+    public String getNpm() {
+        return npm;
+    }
+
+    public void setNpm(String npm) {
+        this.npm = npm;
+    }
+
+    public String getKelas() {
+        return kelas;
+    }
+
+    public void setKelas(String kelas) {
+        this.kelas = kelas;
+    }
+
     public void kasir () {
         System.out.println("***************** KASIR PEMBAYARAN *****************");
         System.out.println("Nama " + nama);

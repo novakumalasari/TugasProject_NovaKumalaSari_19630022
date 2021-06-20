@@ -44,6 +44,126 @@ public class WarungMasakanBanjar {
         this.kelas = kelas;
     }
 
+    public String getNk() {
+        return nk;
+    }
+
+    public void setNk(String nk) {
+        this.nk = nk;
+    }
+
+    public String getNb() {
+        return nb;
+    }
+
+    public void setNb(String nb) {
+        this.nb = nb;
+    }
+
+    public String getNkh() {
+        return nkh;
+    }
+
+    public void setNkh(String nkh) {
+        this.nkh = nkh;
+    }
+
+    public String getNa() {
+        return na;
+    }
+
+    public void setNa(String na) {
+        this.na = na;
+    }
+
+    public String getNc() {
+        return nc;
+    }
+
+    public void setNc(String nc) {
+        this.nc = nc;
+    }
+
+    public String getMh() {
+        return mh;
+    }
+
+    public void setMh(String mh) {
+        this.mh = mh;
+    }
+
+    public String getMe() {
+        return me;
+    }
+
+    public void setMe(String me) {
+        this.me = me;
+    }
+
+    public String getMj() {
+        return mj;
+    }
+
+    public void setMj(String mj) {
+        this.mj = mj;
+    }
+
+    public String getMk() {
+        return mk;
+    }
+
+    public void setMk(String mk) {
+        this.mk = mk;
+    }
+
+    public String getMn() {
+        return mn;
+    }
+
+    public void setMn(String mn) {
+        this.mn = mn;
+    }
+
+    public String getWbt() {
+        return wbt;
+    }
+
+    public void setWbt(String wbt) {
+        this.wbt = wbt;
+    }
+
+    public String getWk() {
+        return wk;
+    }
+
+    public void setWk(String wk) {
+        this.wk = wk;
+    }
+
+    public String getWd() {
+        return wd;
+    }
+
+    public void setWd(String wd) {
+        this.wd = wd;
+    }
+
+    public String getWps() {
+        return wps;
+    }
+
+    public void setWps(String wps) {
+        this.wps = wps;
+    }
+
+    public String getWa() {
+        return wa;
+    }
+
+    public void setWa(String wa) {
+        this.wa = wa;
+    }
+
     public void kasir () {
         System.out.println("***************** KASIR PEMBAYARAN *****************");
         System.out.println("Nama " + nama);
